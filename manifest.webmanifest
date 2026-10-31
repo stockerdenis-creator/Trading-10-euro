@@ -1,0 +1,17 @@
+{
+  "name": "10 € Trading – Paper Bot",
+  "short_name": "10 € Trading",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101a2e",
+  "theme_color": "#101a2e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
